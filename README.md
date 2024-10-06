@@ -46,12 +46,6 @@ Conclusion
 
 Our analysis reveals that while customers generally view the Apple Vision Pro positively, they express concerns regarding its price and certain AR/VR features. These findings provide valuable insights for future product enhancements and marketing strategies.
 
-How to Use This Repository
-
-	1.	Data: The data/ folder contains the cleaned dataset of Quora reviews.
-	2.	Scripts: The scripts/ folder includes Python code for data cleaning, topic modeling, feature prediction, and sentiment analysis.
-	3.	Results: The results/ folder contains visualizations, topic models, and sentiment analysis results.
-	4.	Report: The final project report is available in the docs/ folder.
 
 Requirements
 
